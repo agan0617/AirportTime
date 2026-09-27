@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#121417</color>
+    <color name="card">#1D2024</color>
+    <color name="accent">#7FA8E0</color>
+    <color name="on_accent">#0B1A2E</color>
+    <color name="type_express">#C79BF0</color>
+    <color name="type_chukuang">#FFB25C</color>
+    <color name="type_local">#8DB4EA</color>
+    <color name="live_ok">#7BD88F</color>
+    <color name="live_late">#FF7A70</color>
+    <color name="live_none">#9A9A9A</color>
+</resources>

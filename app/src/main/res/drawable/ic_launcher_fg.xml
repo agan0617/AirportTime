@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 108dp 畫布，內容留在中央 66dp 安全區：火車正面 -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 車身 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,30 h28 a8,8 0,0 1,8 8 v26 a6,6 0,0 1,-6 6 h-32 a6,6 0,0 1,-6 -6 v-26 a8,8 0,0 1,8 -8z" />
+    <!-- 車窗 -->
+    <path
+        android:fillColor="#6B3FA0"
+        android:pathData="M39,37 h30 a2,2 0,0 1,2 2 v10 a2,2 0,0 1,-2 2 h-30 a2,2 0,0 1,-2 -2 v-10 a2,2 0,0 1,2 -2z" />
+    <!-- 車燈 -->
+    <path
+        android:fillColor="#6B3FA0"
+        android:pathData="M44,60 m-3,0 a3,3 0,1 1,6 0 a3,3 0,1 1,-6 0 M64,60 m-3,0 a3,3 0,1 1,6 0 a3,3 0,1 1,-6 0" />
+    <!-- 軌道腳 -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M42,70 L37,78 M66,70 L71,78" />
+</vector>
