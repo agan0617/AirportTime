@@ -2,6 +2,8 @@
 
 查桃園機場捷運兩站之間、今天某個時間以後班次的 Android App。做法同 [TraTime](https://github.com/agan0617/TraTime)。
 
+<img src="docs/screenshot.jpg" width="300" alt="screenshot">
+
 ## 功能
 
 - 預設 **台北車站 → 機場第一航廈、現在**，打開就列出今天這個時間之後的班次
