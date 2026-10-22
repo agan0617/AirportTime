@@ -21,3 +21,12 @@
 ## 建置
 
 同 TraTime：Android Studio 內建 JDK＋SDK 34，`gradlew assembleRelease`，產出 `app/build/outputs/apk/release/app-release.apk`（debug 金鑰簽章）。
+
+## 版權
+
+Copyright © 2026 agan0617. All rights reserved. 保留所有權利，詳見 [LICENSE](LICENSE)。
+
+使用的第三方素材（依各自授權）：
+
+- **交通部 TDX 運輸資料流通服務**：機捷發車時刻 API；assets/tymc.json 的車站順序與站間行駛時間也取自 TDX，政府資料開放授權條款第1版（https://tdx.transportdata.tw/）
+- **Gradle Wrapper**：建置腳本，Apache-2.0（https://gradle.org/）
